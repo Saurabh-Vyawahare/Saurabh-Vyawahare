@@ -1,5 +1,18 @@
+<div align="center">
+  <h2> Hi there, I'm Saurabh Vyawahare 👋 </h2>
+  <h3> 💡 Exploring the World of Data Science, AI & Big Data </h3>
+</div>
+
 # 💫 About Me:
-I am passionate about data science, machine learning, and AI-driven problem-solving. With a strong foundation in Python, SQL, and cloud technologies, I thrive on analyzing complex data, building predictive models, and optimizing data workflows to drive meaningful insights.<br><br>Areas of Expertise:<br>Machine Learning & AI – Developing and fine-tuning models using TensorFlow, PyTorch, and Scikit-learn<br>Big Data & Analytics – Working with large-scale data using Apache Spark, Snowflake, SQL, and Pandas<br>Natural Language Processing (NLP) – Leveraging LangChain, Hugging Face, and OpenAI for intelligent automation<br>Data Visualization – Creating impactful dashboards and reports using Tableau, Power BI, Matplotlib, and Seaborn<br>I enjoy working on data-driven solutions that enhance decision-making, automate processes, and uncover hidden patterns. Always eager to learn, experiment, and contribute to cutting-edge innovations in the data space.
+I am passionate about **data science, machine learning, and AI-driven problem-solving**. With a strong foundation in **Python, SQL, and cloud technologies**, I thrive on **analyzing complex data, building predictive models, and optimizing data workflows** to drive meaningful insights.
+
+### 🔬 Areas of Expertise:
+- **Machine Learning & AI** – Developing and fine-tuning models using TensorFlow, PyTorch, and Scikit-learn  
+- **Big Data & Analytics** – Working with large-scale data using Apache Spark, Snowflake, SQL, and Pandas  
+- **Natural Language Processing (NLP)** – Leveraging LangChain, Hugging Face, and OpenAI for intelligent automation  
+- **Data Visualization** – Creating impactful dashboards and reports using Tableau, Power BI, Matplotlib, and Seaborn  
+
+I enjoy working on **data-driven solutions** that enhance decision-making, automate processes, and uncover hidden patterns. Always eager to **learn, experiment, and contribute to cutting-edge innovations in the data space**.
 
 
 ## 🌐 Socials:
