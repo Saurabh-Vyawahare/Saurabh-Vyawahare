@@ -1,6 +1,6 @@
 <div align="center">
   <h2> Hi there, I'm Saurabh Vyawahare 👋 </h2>
-  <h3> 💡 Exploring the World of Data Science, AI & Big Data </h3>
+  <h3> 💡 Architecting Intelligent Data Systems | AI, ML & Big Data Specialist </h3>
 </div>
 
 # 💫 About Me:
